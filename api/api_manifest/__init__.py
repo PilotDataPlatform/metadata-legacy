@@ -1,0 +1,1 @@
+from .routes import manifest_router
